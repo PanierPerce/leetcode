@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "6527836136176743",
+    "type": "split",
+    "children": [
+      {
+        "id": "9600e25bf660951e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2200-找出数组中的所有K近邻下标.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f83ae84b5210d2b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "54cdd99352600b43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e51eadb6db0485",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bda9034d8ef2fde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6aa735cc324fd043",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1f8e9a93db2779f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0805afda7440f861",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2200-找出数组中的所有K近邻下标.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9600e25bf660951e",
+  "lastOpenFiles": [
+    "2200-找出数组中的所有K近邻下标.md",
+    "2055-蜡烛之间的盘子.md",
+    "2049-统计最高分的节点数目.md",
+    "720-词典中最长的单词.md",
+    "653-两数之和IV-输入BST.md",
+    "606-根据二叉树创建字符串.md",
+    "590-N叉树的后序遍历.md",
+    "589-N叉树的前序遍历.md",
+    "504-七进制数.md",
+    "495-提莫攻击.md"
+  ]
+}
